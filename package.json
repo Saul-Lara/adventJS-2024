@@ -1,0 +1,15 @@
+{
+  "name": "adventjs-2024",
+  "version": "1.0.0",
+  "description": "Repository where I'm uploading the challenges of Advent JS 2024 using TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
