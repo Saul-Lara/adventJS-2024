@@ -24,14 +24,28 @@ Inspired by Advent of Code, it was created by @midudev.
             <td><a href="https://adventjs.dev/en/challenges/2024/1">🎁 First gift repeated!</a></td>
             <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
             <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
-            <td align="center"><a href="./challenges/challenge01.ts">Ver</a></td>
+            <td align="center"><a href="./challenges/challenge01.ts">View</a></td>
         </tr>
         <tr>
             <td align="center">02</td>
             <td><a href="https://adventjs.dev/en/challenges/2024/2">🖼️ Framing names</a></td>
             <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
             <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
-            <td align="center"><a href="./challenges/challenge02.ts">Ver</a></td>
+            <td align="center"><a href="./challenges/challenge02.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">03</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/3">🏗️ Organizing the inventory</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge03.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">04</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/4">🎄 Decorating the Christmas tree</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge04.ts">View</a></td>
         </tr>
     </tbody>
 
