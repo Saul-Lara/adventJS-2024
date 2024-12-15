@@ -47,6 +47,13 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge04.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">05</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/5">👞 Shoe pairing</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/twoStars.svg" title="2 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge05.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
