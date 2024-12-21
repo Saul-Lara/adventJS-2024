@@ -54,6 +54,20 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/twoStars.svg" title="2 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge05.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">06</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/6">📦 Is the gift inside the box?</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge06.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">07</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/7">👹 The Grinch's attack</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge07.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
