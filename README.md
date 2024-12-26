@@ -68,6 +68,20 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge07.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">08</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/8">🦌 The reno race</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge08.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">09</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/9">🚂 The magic train</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge09.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
