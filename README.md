@@ -82,6 +82,20 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge09.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">10</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/10">👩‍💻 The elfish assembler</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge10.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">11</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/11">🏴‍☠️ Filenames encoded</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge11.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
