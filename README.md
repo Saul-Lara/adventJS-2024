@@ -96,6 +96,20 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge11.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">12</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/12">💵 How much does the tree cost?</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge12.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">13</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/13">🤖 Is the robot back?</a></td>
+            <td align="center"><img src="./assets/hard.svg" title="Hard" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge13.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
