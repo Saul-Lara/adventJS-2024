@@ -106,7 +106,7 @@ Inspired by Advent of Code, it was created by @midudev.
         <tr>
             <td align="center">13</td>
             <td><a href="https://adventjs.dev/en/challenges/2024/13">🤖 Is the robot back?</a></td>
-            <td align="center"><img src="./assets/hard.svg" title="Hard" width="33"/></td>
+            <td align="center"><img src="./assets/Hard.svg" title="Hard" width="33"/></td>
             <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge13.ts">View</a></td>
         </tr>
