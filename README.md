@@ -110,6 +110,27 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge13.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">14</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/14">🦌 Weaving the reno</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge14.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">15</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/15">✏️ Drawing tables</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge15.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">16</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/16">❄️ Cleaning the snow path</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge16.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
