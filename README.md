@@ -131,6 +131,27 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge16.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">17</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/17">💣 Grinch's bombs</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge17.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">18</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/18">📇 Santa's Magic Agenda</a></td>
+            <td align="center"><img src="./assets/Hard.svg" title="Hard" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge18.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">19</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/19">📦 Stack magical boxes to deliver gifts</a></td>
+            <td align="center"><img src="./assets/Hard.svg" title="Hard" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge19.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
