@@ -1,12 +1,18 @@
 # 🎅 Advent JS 2024 with Typescript 🎄
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Saul-Lara/adventJS-2024?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Saul-Lara/adventJS-2024?color=green&style=flat-square)
+[![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)
+
+![adventjs](./assets/adventJS_Banner.png)
+
 Repository where I'm uploading the challenges of Advent JS 2024 using TypeScript.
 
 Advent JS is an advent calendar that presents daily programming challenges, which can be solved using JavaScript, TypeScript, or Python.
 
 Inspired by Advent of Code, it was created by @midudev.
 
-# 🎮 Challenges
+# 🎮 Table of Challenges
 
 <table>
     <thead>
@@ -152,9 +158,67 @@ Inspired by Advent of Code, it was created by @midudev.
             <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
             <td align="center"><a href="./challenges/challenge19.ts">View</a></td>
         </tr>
+        <tr>
+            <td align="center">20</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/20">🎁 Find missing and duplicate gifts</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge20.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">21</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/21">🎄 Calculate the height of the Christmas tree</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge21.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">22</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/22">🎁 Generate gift combinations</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/threeStars.svg" title="3 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge22.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">23</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/23">🔢 Find the missing numbers</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge23.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">24</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/24">🪞 Check if trees are magical mirrors</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/fourStars.svg" title="4 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge24.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">25</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/25">🪄 Execute the magical language</a></td>
+            <td align="center"><img src="./assets/Medium.svg" title="Medium" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge25.ts">View</a></td>
+        </tr>
+        <tr>
+            <td align="center">26</td>
+            <td><a href="https://adventjs.dev/en/challenges/2024/26">🎯 Calculate the completed percentage</a></td>
+            <td align="center"><img src="./assets/Easy.svg" title="Easy" width="33"/></td>
+            <td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+            <td align="center"><a href="./challenges/challenge26.ts">View</a></td>
+        </tr>
     </tbody>
 
 </table>
 
+**Dificulty labels**: <img src="./assets/Easy.svg" title="Easy" width="20"/> Easy | <img src="./assets/Medium.svg" title="Medium" width="20"/> Medium | <img src="./assets/Hard.svg" title="Hard" width="20"/> Hard |
 
-Saul Hdz Lara
+
+# 🛠️ Technologies Used
+
+- **Languages**: The AdventJS challenges were solved using **TypeScript (TS)**.
+- **IDE**: **Visual Studio Code (VS Code)** was used entirely during the development process.
+
+---
+
+Saúl Lara
